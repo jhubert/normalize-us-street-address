@@ -1,0 +1,9 @@
+This was one of the first things I'd ever written in Ruby back in 2005. 
+
+It's a port of the GEO::StreetAddress::US Perl Library. http://search.cpan.org/~sderle/Geo-StreetAddress-US-0.99/US.pm
+
+Please feel free to do whatever you'd like with it, and if you find it useful let me know.
+
+Cheers,
+Jeremy Hubert 
+http://jeremyhubert.com
